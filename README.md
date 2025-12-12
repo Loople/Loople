@@ -1,5 +1,5 @@
 <h1 align="center">ＨＥＬＬＯ</h1>
-<h3 align="center">Ｉｔｓ ａ ｍｅ Ｌｏｐｐｌ</h3>
+<h3 align="center">Ｉｔｓ  ａ  ｍｅ  Ｌｏｐｐｌｅ</h3>
 <p align="center">feel free to check out my projects<br>
 ദ്ദി(˵ •̀ ᴗ - ˵ )</p>
 
